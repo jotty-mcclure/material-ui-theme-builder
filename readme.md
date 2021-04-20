@@ -1,4 +1,5 @@
-# Material Design CSS Boilerplate
+# Material UI Theme Builder
+A theme customizer for the Material Design UI component library
 
 ## Install
 `npm install` or `yarn`
